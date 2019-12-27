@@ -1,0 +1,2 @@
+2019-12-16T19:27:58+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs/wp-content/themes/neve/inc/template-tags.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\wp-content\themes\shapely\functions.php en la línea 284
+
